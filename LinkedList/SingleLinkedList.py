@@ -71,7 +71,7 @@ class SingleLinkedList:
 
             
 
-s=SingleLinkedList()
+#s=SingleLinkedList()
 #s.add_at_head(10)
 #s.add_at_tail(20)
 #s.add_at_tail(30)
